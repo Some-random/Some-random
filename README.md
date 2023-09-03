@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Having honed my skills in speech processing and self-supervised models for years, I am now transitioning to LLM, aiming to improve its reasoning capabilities.
+With six years of industry and research experience in speech processing and self-supervised models, my focus is now shifting to LLM, with a particular interest in enhancing its reasoning capabilities.
 
-![Some-random's GitHub stats](https://github-readme-stats.vercel.app/api?username=Some-random&theme=transparent&show_icons=true&hide=stars)
+![Some-random's GitHub stats](https://github-readme-stats.vercel.app/api?username=Some-random&theme=transparent&show_icons=true&hide=stars&include_all_commits=true&disable_animations=True)
